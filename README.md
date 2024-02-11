@@ -1,1 +1,2 @@
 # algotradesandbox
+For the 2024 Hacklytics event at GT, I chose the finance track and created a "sandbox" environment, in which beginners looking to get into Algorithmic Trading can tinker with various settings (entry / exit conditions, thresholds, etc.) to experiment with how to fine tune a winning trading model. The tool allows you to backtest the algorithm over a range of historic stock data for any stock of your choosing, and outputs a visual of the final performance and value of the stock along with a visual representation of where buy orders and ell orders were made.
